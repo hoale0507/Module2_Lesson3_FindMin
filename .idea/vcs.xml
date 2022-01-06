@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_BMI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_CheckLeapYear" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_ConvertCurrency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_ConvertNumberToString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_DayOfMonth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_HelloName" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_LinearEquationResolver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_OperatorUsing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_SystemTime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson1_VariableDeclaration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_20FirstPrime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_BankingInterestCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_CheckPrime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_DrawShape" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_DrawingMenu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson2_GreatCommonFactor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson3_ConvertTemperature" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson3_FindElementInArray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson3_FindMaxElement" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2_Lesson3_ReverseArray" vcs="Git" />
+  </component>
+</project>
